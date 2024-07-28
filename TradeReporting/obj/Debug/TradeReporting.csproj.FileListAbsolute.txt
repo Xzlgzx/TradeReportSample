@@ -1,0 +1,6 @@
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\bin\Debug\TradeReporting.exe
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\bin\Debug\TradeReporting.pdb
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\obj\Debug\TradeReporting.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\obj\Debug\TradeReporting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\obj\Debug\TradeReporting.exe
+C:\Users\Administrator\RiderProjects\TradeReporting\TradeReporting\obj\Debug\TradeReporting.pdb
